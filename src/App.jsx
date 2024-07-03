@@ -1,3 +1,5 @@
+import BottomBannere from "./Home/BottomBannere/BottomBannere"
+import Faq from "./Home/Faq/Faq"
 import Hero from "./Home/Hero/Hero"
 import NavBar from "./Home/NavBar/NavBar"
 import Service from "./Home/Service/Service"
@@ -15,6 +17,8 @@ function App() {
       <WhoAreWe/>
       <Service/>
       <Testimonial/>
+      <Faq/>
+      <BottomBannere/>
     </>
   )
 }
