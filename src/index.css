@@ -5,6 +5,8 @@
 
 
 
-.btn-outline{
+.bg-gradient-radial {
+  /* background: radial-gradient(circle, #020043 0%, transparent 70%); */
+  background: linear-gradient(160deg, rgba(2,0,67,1) 0%, transparent 100%);;
   
 }
