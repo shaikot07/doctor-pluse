@@ -7,7 +7,7 @@ import img3 from '../../assets/Rectangle 277.png'
 const Service = () => {
     return (
         <div className='bg-[#FFFFF5] max-w-6xl mx-auto mt-28 mb-10 ' >
-            <div className='grid grid-cols-2 space-y-8'>
+            <div className='grid sm:grid-cols-1 md:grid-cols-2 space-y-8'>
                 <div className='w-[524px] h-[350px] '>
                     <button className='px-6 py-2 bg-[#FFFFF5] border-2 rounded-full border-black font-semibold mt-3 mb-2'>Service</button>
                     <h2 className='text-3xl font-semibold mt-2 mb-4'>Empowering Health,<br /> Enriching Lives</h2>
