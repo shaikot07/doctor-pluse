@@ -9,7 +9,7 @@ import div5 from '../../assets/div5.png'
 
 const HeSecond = () => {
     return (
-        <div className="max-w-6xl mx-auto mt-8 mb-20 bg-[#F4F4F5]">
+        <div className="max-w-6xl mx-auto mt-8 mb-20 ">
             <h1 className="sm:w-full md;w-[576px] mx-auto text-3xl font-bold text-center mt-8">Comprehensive Care <br />for Every Patient</h1>
             <div className='grid sm:grid-cols-1 md:grid-cols-5 sm:mt-[-3px md:mt-[-30px]'>
                 <div className="w-[200px] bg-[#FBFBFB] p-4 rounded-xl drop-shadow-md ">
