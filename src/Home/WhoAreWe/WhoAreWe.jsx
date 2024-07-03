@@ -4,7 +4,7 @@ import { FaArrowTrendUp } from 'react-icons/fa6';
 
 const WhoAreWe = () => {
     return (
-        <div className='grid grid-cols-2 max-w-6xl mx-auto items-center'>
+        <div className='grid sm:grid-cols-1 md:grid-cols-2 max-w-6xl mx-auto items-center'>
             <div className='flex-1 py-6'>
                 <button className='px-6 py-2 bg-[#FFFFF5] border-2 rounded-full border-black font-semibold'>Who Are We</button>
                 <h1 className='mt-4 text-5xl font-semibold text-[#020043]'>We Help To Get <br /> Soultions</h1>
